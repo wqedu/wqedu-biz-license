@@ -1,1 +1,1 @@
-# wqedu-biz-quiz
+# wqedu-biz-license
